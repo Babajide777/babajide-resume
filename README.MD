@@ -11,4 +11,4 @@ Resume of Oyafemi Babajide Peter
 
 ### Screenshot
 
-![Resume](./assets/resume.jpg)
+![Resume](./assets/Oyafemi-Babajide-Resume.pdf)
